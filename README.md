@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShruthiRamesh02
 - 👀 I’m interested in Data Analyst/Data Scientist
-- 🌱 I’m currently learning DAta Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ramesh.shruthi6@gmail.com
 
